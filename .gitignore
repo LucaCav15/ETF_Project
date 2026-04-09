@@ -1,0 +1,10 @@
+# ETF Project
+bin/
+lib/
+etc/
+share/
+include/
+pyvenv.cfg
+__pycache__/
+.DS_Store
+*.pyc
