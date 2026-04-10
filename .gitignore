@@ -1,4 +1,3 @@
-# ETF Project
 bin/
 lib/
 etc/
@@ -8,3 +7,5 @@ pyvenv.cfg
 __pycache__/
 .DS_Store
 *.pyc
+.ipynb_checkpoints/
+data/
